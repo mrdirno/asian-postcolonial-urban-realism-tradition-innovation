@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-urban-realism-tradition-innovation",
+  "title": "Where the Water Used to Run",
+  "tagline": "A fixer in Kuala Lumpur navigates the ghosts of history and the concrete demands of progress to save the soul of a city.",
+  "target_words": 70000,
+  "actual_words": 76392,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Memory vs. Modernization",
+    "The Translator's Burden",
+    "Postcolonial Inheritance",
+    "Urban Displacement"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Parit",
+      "words": 3183
+    },
+    {
+      "ch": 2,
+      "title": "Curry Fish Head",
+      "words": 3183
+    },
+    {
+      "ch": 3,
+      "title": "The Mechanic's Ask",
+      "words": 3183
+    },
+    {
+      "ch": 4,
+      "title": "Surya Holdings",
+      "words": 3183
+    },
+    {
+      "ch": 5,
+      "title": "Family Archives",
+      "words": 3183
+    },
+    {
+      "ch": 6,
+      "title": "The Boardroom Counter",
+      "words": 3183
+    },
+    {
+      "ch": 7,
+      "title": "Night Market Intel",
+      "words": 3183
+    },
+    {
+      "ch": 8,
+      "title": "A Closed Door in Setapak",
+      "words": 3183
+    },
+    {
+      "ch": 9,
+      "title": "The Ghost of Rubber",
+      "words": 3183
+    },
+    {
+      "ch": 10,
+      "title": "Sister's Rebuke",
+      "words": 3183
+    },
+    {
+      "ch": 11,
+      "title": "The Kingfisher's Return",
+      "words": 3183
+    },
+    {
+      "ch": 12,
+      "title": "Uncle Hock's Warning",
+      "words": 3183
+    },
+    {
+      "ch": 13,
+      "title": "The Land Title Maze",
+      "words": 3183
+    },
+    {
+      "ch": 14,
+      "title": "A Offer from Tan",
+      "words": 3183
+    },
+    {
+      "ch": 15,
+      "title": "Backroom at the Mamak",
+      "words": 3183
+    },
+    {
+      "ch": 16,
+      "title": "Concrete Proposals",
+      "words": 3183
+    },
+    {
+      "ch": 17,
+      "title": "The Weight of a Name",
+      "words": 3183
+    },
+    {
+      "ch": 18,
+      "title": "Monsoon Revelation",
+      "words": 3183
+    },
+    {
+      "ch": 19,
+      "title": "Burning Records",
+      "words": 3183
+    },
+    {
+      "ch": 20,
+      "title": "A Line in the Soil",
+      "words": 3183
+    },
+    {
+      "ch": 21,
+      "title": "The Fixer's Choice",
+      "words": 3183
+    },
+    {
+      "ch": 22,
+      "title": "Community of Memory",
+      "words": 3183
+    },
+    {
+      "ch": 23,
+      "title": "Not a Pendatang",
+      "words": 3183
+    },
+    {
+      "ch": 24,
+      "title": "The City Breathes",
+      "words": 3183
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Jin discovers a forgotten artifact (a tool, a letter, a photograph) on the old rubber estate that changes his understanding of the land's history.",
+      "Write a chapter from the perspective of Ramesh the mechanic, detailing the last day in his workshop as he packs his tools and memories.",
+      "Compose a tense dialogue where Jin must explain his 'sentimental' defense of the *parit* to a purely profit-driven, international investor.",
+      "Write a flashback scene featuring Jin's father, showing the moment he decided to fight for (or compromise on) a piece of land, revealing the origin of Jin's internal conflict."
+    ],
+    "technical": [
+      "Build an interactive map of Kuala Lumpur tracking the locations in the novel (Meranti Tower, Uncle Hock's estate, the *mamak* stall, Ramesh's workshop) and layer it with historical land-use data and current development projects.",
+      "Create a 'Memory vs. Modernization' text analyzer that scans a chapter and highlights passages related to tradition/history in one color and progress/development in another, visualizing Jin's internal dialogue."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "M. Night Shyamalan",
+      "Chimamanda Ngozi Adichie",
+      "Haruki Murakami",
+      "Khalid Hosseini"
+    ]
+  },
+  "cover_prompt": "A solitary figure, a fixer, stands on a rain-slicked construction gantry overlooking the skeletal remains of a traditional shophouse being consumed by a glass tower, his reflection fractured in a deep puddle that mirrors both the crumbling past and the soaring future, set in the dense, humid heart of Kuala Lumpur where monsoon drains cut through concrete and the ghosts of colonial architecture whisper from behind bamboo scaffolding, rendered in the atmospheric style of a photorealistic fusion between the haunting urban realism of Alex Webb and the evocative, rain-drenched cinematic lighting of Wong Kar-wai's cinematographer Christopher Doyle, book cover framing with a centered, slightly low-angle composition that emphasizes the scale of urban change against the human element, dramatic and contemplative with chiaroscuro lighting from neon signs and construction halogens cutting through the equatorial dusk, a color palette of monsoon grays, oxidized copper greens, the sickly yellow of streetlights, and the cold blue glow of progress, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}

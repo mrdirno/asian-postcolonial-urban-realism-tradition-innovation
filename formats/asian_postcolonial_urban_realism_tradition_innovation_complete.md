@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The rain didn’t fall in Kuala Lumpur so much as it descended, a warm, solid wall that turned the city into a greyscale aquarium. From the twenty-third floor of the Meranti Tower, Jin watched it sheet across the floor-to-ceiling glass, turning the Petronas Towers into twin smudges of light, their famous spires swallowed by the monsoon belly. The air inside the boardroom was a meat-locker chill, a deliberate aggression against the humidity outside. It made the skin on his forearms tighten.
@@ -108,6 +110,8 @@ Jin looked from that smile to the persistent water stain on the ceiling in the s
 
 He had saved the *parit*. He would try to save Ramesh’s workshop. But this battle, in this house saturated with memory and fish-head curry, was one he had no idea how to win. The rain had stopped. The city hummed outside, relentless. Dinner was ready.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The ceiling fan in Ramesh’s workshop chopped the thick, oil-scented air into lazy, warm slices. Sunlight, hard and white after the previous night’s rain, cut through the grimy front window, illuminating a universe of suspended dust. Jin stood over the open belly of a Proton Wira, its engine a cryptic sculpture of black metal and faded hoses. Ramesh was underneath, his voice echoing from the concrete.
@@ -213,6 +217,8 @@ He ended the call. His hand was steady, but his heart was pounding. He had just 
 He stepped out of the archive into the blinding afternoon heat. The city roared around him, indifferent. He had two battles now: one for a cluster of doomed shops, and one for his mother’s soul. And he was losing the moral clarity for both. He was no longer the good son or the righteous lawyer. He was something in the murky middle, a man caught between the memory in the dirt and the money in the air, trying to find a purchase on a slope that was crumbling beneath him.
 
 He hailed a taxi. “Taman Tun,” he said. He was going to dinner. He would sit at the table where his father’s empty chair still held its space, and he would eat his mother’s food, and he would say nothing about power of attorney, or shell companies, or the ghost in the signature. He would just be a son, for one hour, in the house that was both a sanctuary and a trap. The curry would be cold, but he would eat it anyway.
+
+# Chapter 3
 
 ## **Chapter 3**
 

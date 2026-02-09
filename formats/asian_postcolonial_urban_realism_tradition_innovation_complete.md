@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The rain didn’t fall in Kuala Lumpur so much as it descended, a warm, solid wall that turned the city into a greyscale aquarium. From the twenty-third floor of the Meranti Tower, Jin watched it sheet across the floor-to-ceiling glass, turning the Petronas Towers into twin smudges of light, their famous spires swallowed by the monsoon belly. The air inside the boardroom was a meat-locker chill, a deliberate aggression against the humidity outside. It made the skin on his forearms tighten.
+Between the old temple’s shadow and the new glass tower’s glare, Lin’s chisel bit into stone. Tradition demanded a dragon’s sinuous curve; the developer’s blueprint called for clean, abstract lines. Her hand trembled—not from the vibration, but from the choice. Dust, ancient and sharp, tasted of both incense and concrete.
+
 
 “The terms are non-negotiable, Mr. Lee.”
 

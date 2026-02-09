@@ -1,4 +1,6 @@
- Chapter 1
+Chapter 1
+
+Chapter 1
 
 The rain didn’t fall in Kuala Lumpur so much as it descended, a warm, solid wall that turned the city into a greyscale aquarium. From the twenty-third floor of the Meranti Tower, Jin watched it sheet across the floor-to-ceiling glass, turning the Petronas Towers into twin smudges of light, their famous spires swallowed by the monsoon belly. The air inside the boardroom was a meat-locker chill, a deliberate aggression against the humidity outside. It made the skin on his forearms tighten.
 
@@ -108,7 +110,9 @@ Jin looked from that smile to the persistent water stain on the ceiling in the s
 
 He had saved the parit. He would try to save Ramesh’s workshop. But this battle, in this house saturated with memory and fish-head curry, was one he had no idea how to win. The rain had stopped. The city hummed outside, relentless. Dinner was ready.
 
- Chapter 2
+Chapter 2
+
+Chapter 2
 
 The ceiling fan in Ramesh’s workshop chopped the thick, oil-scented air into lazy, warm slices. Sunlight, hard and white after the previous night’s rain, cut through the grimy front window, illuminating a universe of suspended dust. Jin stood over the open belly of a Proton Wira, its engine a cryptic sculpture of black metal and faded hoses. Ramesh was underneath, his voice echoing from the concrete.
 
@@ -214,7 +218,9 @@ He stepped out of the archive into the blinding afternoon heat. The city roared 
 
 He hailed a taxi. “Taman Tun,” he said. He was going to dinner. He would sit at the table where his father’s empty chair still held its space, and he would eat his mother’s food, and he would say nothing about power of attorney, or shell companies, or the ghost in the signature. He would just be a son, for one hour, in the house that was both a sanctuary and a trap. The curry would be cold, but he would eat it anyway.
 
- Chapter 3
+Chapter 3
+
+Chapter 3
 
 The air in the council chamber was a stale cocktail of old sweat, mildew, and cheap floral air freshener. Ceiling fans labored overhead, stirring the heat but not dispelling it. Jin sat at a scarred wooden table at the front of the room, Ramesh a tense, bulky presence beside him. Behind them, on rickety folding chairs, were the other shop owners: Mr. Lim of the textile shop, his hands clasped tightly in his lap; Auntie Zainah of the mamak stall, her tudung crisp and her expression fiercer than her sambal; and Mr. Gopal from the photocopy shop, clutching a folder of blurry photocopies.
 
@@ -288,11 +294,13 @@ Mr. Chan smiled, a thin, legal smile. “Mr. Tan. Thank you for coming. I am her
 
 The world tilted. Jin gripped the back of a chair. “That’s absurd. The addendum
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- Chapter 4
+Chapter 4
 
 The silence in the conference room was a physical thing, a dense, cold gel that filled Jin’s lungs. Mr. Chan’s words hung in it, precise as legal type. Uncle Hock’s refusal to look up from his knotted hands was a confession more damning than any document. The meat-locker chill of the Meranti Tower seemed to have followed Jin here, seeping into the marrow of his own building.
 
@@ -317,8 +325,7 @@ The aquarium glass of the morning shattered. The warm, solid wall of rain was in
 Chan stood, gathering his folder. Uncle Hock pushed back his chair, the legs scraping a guilty sound on the floor. He paused at the door, a stooped silhouette. “The kongsi Raya dinner is next week,” he said, not turning. “Your mother asked if you are coming.” Then he was gone.
 
 Jin did not move until the elevator’s chime echoed down the hall. Then he walked to the floor-to-ceiling window of his own conference room. The afternoon sun had broken through, steaming the streets. Bangsar glittered, wet and indifferent. He saw his reflection superimposed on the city—a man in a tailored suit, standing perfectly still in a box of cold, clean air.
-
-Scene 1
+  - Scene 1
 
 He found them at the kopitiam three streets over, the one with the stubborn patch of damp perpetually darkening the ceiling in the shape of Penang Island. Anil was nursing a teh tarik, his laptop open, lines of code reflected in his glasses. Aisha was sketching in a battered Moleskine, a half-eaten plate of roti canai congealing beside her. They had become his team by accident, a default alliance of the professionally disgruntled. Anil, the blockchain forensic analyst he’d used to trace shell company leaks, who talked about data integrity like it was a spiritual discipline. Aisha, the architectural historian turned guerrilla preservationist, who could read the history of a neighborhood in the wear pattern of its five-foot ways and the fading hue of its enamel signage.
 
@@ -355,8 +362,7 @@ Anil shrugged. “Data should be clean. This is a cleanup job.”
 Aisha tore a piece of roti. “I’m tired of drawing ghosts. I’d rather draw a blueprint for a fight.”
 
 It was not a rousing speech. There were no handshakes. But in the humid, clattering kopitiam, over cold coffee and greasy bread, a pact was sealed. It was born not from shared ambition, but from shared disgust—for the sleek, silent violence of the new city, for the clever, double-flowing rivers of modern deal-making. They were a trinity of anachronisms: the ethical hacker, the historian, and the lawyer who had just realized his practice was built on sand. Their bond was the negative space around what they rejected.
-
-Scene 2
+  - Scene 2
 
 For a week, they worked in a fugue state. Jin’s office became a war room, the polished teak buried under printouts, maps, and Aisha’s sprawling, hand-drawn diagrams of property lineages. Anil lived in a constellation of glowing screens, his fingers a constant flutter on the keyboard, chasing digital ghosts through offshore registries.
 
@@ -411,8 +417,7 @@ He returned to the office near midnight. Anil and Aisha were still there, hope f
 The setback was absolute. Without Goh, the 1978 deed was just a curious artifact. The pattern was plausible, but not provable. The legal case they had begun to fantasize about—a RICO-style pattern of corrupt acquisition—dissolved into mist. They had nothing to leverage, no witness to pressure. They had cost themselves their best shot, and in doing so, had likely alerted the other side that someone was digging in the wrong, old places.
 
 The valuable thing they lost was not a document or a witness. It was momentum. It was the fragile, burning belief that the past could be weaponized. The cold, clean air of the office now felt like the vacuum after an explosion—silent, empty, and sterile.
-
-Scene 3
+  - Scene 3
 
 Jin did not go home. He drove, aimlessly, through the sleeping city. The gleaming towers were dark monoliths. The construction sites were silent, skeletal. He found himself in Petaling Street.
 
@@ -455,8 +460,7 @@ He had learned that he was, indeed, a tool. But a tool could be repurposed. A la
 “I’ll be there, Ma,” he said.
 
 She patted his arm and stood, returning to bed. Jin remained on the step, looking from the altar to the fragment of sky above. The hook of the dragon’s tail on the roof beam was just visible in the ambient light. It wasn’t about finding one thread to pull. It was about re-weaving the fabric itself, using a different kind of thread.
-
-Scene 4
+  - Scene 4
 
 He called the meeting at the kopitiam again. The mood was grim, hungover from failure.
 
@@ -498,11 +502,13 @@ The hook was set. Not for him, but for them. They knew he was digging. Now they 
 
 He started the car and pulled into the slow, steaming river of traffic, the message burning a silent, cold hole in his pocket. The game was no longer hidden. It was acknowledged. And the next move, he knew with a certainty that chilled his blood, would not be a legal letter. It would be something older, something that respected neither walls nor sky.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- Chapter 5
+Chapter 5
 
 The heat in Ipoh was a different creature. It did not press down from a cloud-choked sky like in Kuala Lumpur; it rose from the ground, from the bleached limestone karsts that ringed the old town, from the sun-baked tiles of the colonial shophouses. It was a dry, ancient heat that smelled of dust and frangipani. It got into the lungs, into the grain of the wood, into the slow, patient calculus of the place.
 
@@ -567,8 +573,7 @@ Jin took the tin. It was cool, heavy. A bribe? A threat? A lesson.
 “Perhaps,” the old man said, noncommittally. “But symbiosis requires recognition. You must be recognized as life, not as disease. That,” he said, finally showing a glint of something steely beneath the calm, “is a verdict delivered not by one tree, but by the forest. You have been seen. The deliberation has begun.”
 
 The audience was over. The young man reappeared to usher them out. As they stepped back into the furnace blast of the street, the cool, tea-scented darkness of the shop felt like a dream already dissolving. Jin’s hand tightened around the tin in his pocket. It felt less like a gift and more like a biopsy sample.
-
-Scene 2
+  - Scene 2
 
 They drove north out of Ipoh, towards the Thai border. The landscape unspooled—a tapestry of rubber plantations, their trees scarred with diagonal cuts, and then the vast, geometric green of palm oil estates, a monoculture so perfect it felt unnatural. This was the kingdom of commodity, the engine room of the new wealth. And nestled in a fold of hills between two such estates, surrounded by a high, electrified fence, was their destination: the Taman Sari Integrated Biorefinery.
 
@@ -589,8 +594,7 @@ Ravi spoke, his eyes never leaving the distant facility. “Physical entry is th
 Jin stared at the schematic, at the pulsating seam Hafiz had identified. A seam between the old and the new. Between the machine that made the product and the story that sold it. The environmental monitor was the conscience of the facility, the part that told the outside world it was clean. And it was their way in.
 
 “We don’t go in the front,” Jin said slowly. “We go in through the conscience.”
-
-Scene 3
+  - Scene 3
 
 The safe house was a leased apartment in a bland, modern block in the nearby town of Sungai Siput. It smelled of new paint and stale nasi lemak. Jin stood on the small balcony, the tin of Dan Cong tea in his hand. Below, the town slept under a haze of streetlight and humidity. A reminder of his old life—the sterile boardroom, the predictable aggression of men like Tan—felt like a childhood memory, naive and thin.
 
@@ -619,8 +623,7 @@ He looked at her, at the fierce, unshakeable certainty in her eyes. It wasn’t 
 He raised his mug of tea. “To adaptation.”
 
 She clinked her can against it. “To poisoning the goddamn mycelium.”
-
-Scene 4
+  - Scene 4
 
 The rain came at 3 a.m., not a drizzle but a full-throated downpour, the kind that turned the world into a drum. It was the only sound as they moved through the rubber plantation adjacent to the Taman Sari facility. They were shadows in black rain gear, their faces smeared with mud. Ravi led, a ghost in the orderly lines of trees. Hafiz followed, a bulky backpack containing his magic box. Jin and Aisha came last.
 
@@ -704,11 +707,13 @@ But the call was not about the facility. It was a reminder. The deliberation of 
 
 They were disease.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- Chapter 6
+Chapter 6
 
 The rubber trees held the rain in their canopy, a second sky that dripped long after the monsoon had moved on. It fell in fat, sporadic drops that struck the leaf litter with the sound of a slow, wet clock. Jin was alone. The argument had been quiet, a hissed exchange in the pre-dawn murk as the police lights strobed against the plantation’s edge.
 
@@ -842,19 +847,20 @@ He was a man with a blade, staring at a map of a world that had already moved on
 
 It was vast. And it was growing.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- Chapter 7
+Chapter 7
 
 The dawn did not break over the jungle so much as it seeped, a slow dilution of black into a bruised, waterlogged grey. Jin emerged from the cave mouth not as a man reborn, but as one reassembled from damp parts. The memory of the satellite image was a phosphorescent stain on his mind, its geometric green glowing behind his eyes more vividly than the weak light filtering through the canopy. He had spent the night with his back to the stone, the parang’s edge cold against his thumb, not listening for an approach but feeling the weight of that distant, growing geometry. It pressed on the atmosphere, a silent weather.
 
 He walked out of the hills not with purpose, but with direction. The difference was the space between a heartbeat and a reflex. The contact had delivered the only message that mattered: you are peripheral. The reward for surviving the clearing was not a reprieve, but a scale. A new unit of measurement for his own insignificance.
 
 The journey back to the city was a study in receding wildness. The tangled roots gave way to drainage ditches, the calls of gibbons to the whine of motorbikes, the smell of wet earth and decay to the acrid scent of burnt rubbish and frying oil. By the time he crossed the Selangor River on a rusted public bus, the jungle was a rumpled green blanket thrown carelessly behind the rows of shop-houses and palm oil smallholdings. The world had not missed him. It had not noticed his absence at all.
-
-Scene 1
+  - Scene 1
 
 The safe-house was a first-floor walk-up above a kopitiam in Petaling Jaya, the air perpetually greasy with the smell of kaya toast and boiled coffee. Ravi opened the door before Jin could knock. He didn’t speak, just stepped back, his eyes performing a swift, professional inventory: the mud-caked boots, the tear in the sleeve, the stillness in Jin’s face that was not calm but a kind of exhausted compression.
 
@@ -905,8 +911,7 @@ Ravi nodded, a grim smile touching his lips. “I can make it metastasize.”
 “And you?” Aisha asked.
 
 “I,” Jin said, finishing the bitter tea, “am going to pay a visit to our friend from Singapore.”
-
-Scene 2
+  - Scene 2
 
 The celebration was a meal. It felt necessary, a ritual to mark the transition from prey to hunter, however fraught the new hunt might be. They couldn’t go out. Ravi ventured down to the kopitiam and returned with a feast wrapped in brown paper and banana leaves: nasi lemak, its coconut rice still warm, ikan bakar charred and smoky, a pile of kangkung belacan that stung the eyes with its fermented shrimp-paste pungency.
 
@@ -933,8 +938,7 @@ Ravi wiped his hands on a towel. “The man from Singapore. Tan. You think he kn
 “That is the point,” Jin said. “We have to move from being a nuisance they manage to a threat they miscalculated.”
 
 The moment of respite was over, dissolved in the planning. The celebration had been in the sharing, but the shared understanding now propelled them toward a sharper, more dangerous edge. The alliance was solid, but the ground beneath it was shifting, preparing to become the deck of a boat on a different sea.
-
-Scene 3
+  - Scene 3
 
 Tan from Singapore agreed to a meeting with a promptness that was itself a message. He was not hiding. He was accommodating. The venue was not the meat-locker chill of the Meranti Tower, but the lobby lounge of a different five-star hotel, all muted gold light, deep carpets, and the soft, oceanic murmur of discreet wealth. It was a space designed to absorb conflict, to soften edges. An aggression of comfort.
 
@@ -981,8 +985,7 @@ Jin finished his sickly-sweet tea. “Pragmatism is the art of knowing which gam
 Tan did not offer his hand. He gave a slight, almost imperceptible nod. A dismissal, and a final notation in his mental ledger. “Good luck, Mr. Lee. You will need it more than you know.”
 
 As Jin walked across the soundless carpet, he felt the man’s gaze on his back, not angry, but calculative. He had not gained an ally, nor had he extracted a confession. He had performed a diagnosis. He had confirmed the malignancy and felt its intended deterrent effect. The personal loss was the last shred of hope for a contained, civilized resolution. It was gone. The path ahead was not paved with legal briefs. It was a river, choked with mud and old ghosts.
-
-Scene 4
+  - Scene 4
 
 The night flight to Miri was a red-eye, a metal tube hurtling through the darkness over the South China Sea. Jin sat by the window, but there was nothing to see but the intermittent flash of a wingtip light against the black. Below them was the sea, and somewhere in that darkness, the coastline of Sarawak.
 
@@ -1010,11 +1013,13 @@ Kian was waiting in the arrivals hall, a man of compact build with hair shot thr
 
 He turned and led them out into the swelling heat. The hook for the next chapter was not a mystery or a threat. It was a journey. It was the first step into the vast, growing green, toward the source of the sour air and the geometric silence. The game was no longer hidden. It was laid out below the wing of an airplane. And they were now walking directly into its cultivated, hungry heart.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- Chapter 8
+Chapter 8
 
 The road from the airstrip was not a road so much as a long, damp bruise on the land, a wound of packed laterite clay the colour of dried blood. It unspooled from the coast into the interior, flanked by a green wall so dense it seemed to absorb sound. The four-wheel-drive Kian had provided was a rattling metal box, its air conditioning a faint, asthmatic whisper against the soup of the morning. The new smell—that sour, vegetal tang—was stronger here. It seeped through the vents, coating the back of the throat.
 
@@ -1063,8 +1068,7 @@ Kian looked past the gun, at Jin. His tea-coloured eyes were clear, final. “Th
 It was an act of pure, territorial marking. He was drawing a line in the dirt with his own body. The emotional stake was not shouted; it was planted, silent and irrevocable, in the scorched earth. Aisha grabbed Jin’s arm, her fingers biting. “Jin. Now.”
 
 They ran. Not back to the car, but into the green wall, away from the geometric silence, plunging into the chaotic, sound-absorbing tangle of the true jungle. A shout echoed behind them, then the deafening, flat crump of a shotgun fired into the air. A warning. Or a signal. The chase had begun, not with stealth, but with a declaration. The garden’s immune system was now fully activated, and it would hunt.
-
-The jungle closed around them like a wet, green lung. The sour tang was gone, replaced by the thick smell of rot and growth, of things endlessly consuming and being consumed. They crashed through undergrowth, ferns whipping at their legs, vines snagging their packs. The river sound Kian had mentioned was a distant, constant rumour to their left. They used it as a compass, stumbling toward it.
+  - The jungle closed around them like a wet, green lung. The sour tang was gone, replaced by the thick smell of rot and growth, of things endlessly consuming and being consumed. They crashed through undergrowth, ferns whipping at their legs, vines snagging their packs. The river sound Kian had mentioned was a distant, constant rumour to their left. They used it as a compass, stumbling toward it.
 
 Jin’s mind was a reel of stark images: Kian’s still back, the twin barrels of the shotgun, the key spinning into the grey-brown scar. A sacrifice made not for him, but for the intent he carried. The parang slapped against his spine with every step, a mocking reminder. He had come prepared to dig, and a man had just buried himself in the hole instead.
 
@@ -1117,8 +1121,7 @@ They pushed off. The cold water was a shock. The current took them immediately, 
 He shot through the narrow channel like a bullet in a barrel, water crashing over his head, the world a roar of brown and white. Then he was spat out into a sudden, deep, calm pool below the rapids. He gasped, treading water, spinning around. Aisha surfaced a second later, coughing, her pack still on her shoulders.
 
 They had bypassed the node. The bridge, and the men on it, were now out of sight upstream. They swam to the far bank, clawing their way up into the unfamiliar jungle. They had used the system’s own force, its own ancient, indifferent energy, to overcome the modern, imposed obstacle. It was innovation born of sheer desperation, a hack written in water and fear.
-
-Exhaustion was a chemical weight in their blood. They walked until the light began to fail, the green tunnel deepening to emerald, then to black. They found a shallow overhang in a limestone cliff, dry and hidden. They did not dare make a fire.
+  - Exhaustion was a chemical weight in their blood. They walked until the light began to fail, the green tunnel deepening to emerald, then to black. They found a shallow overhang in a limestone cliff, dry and hidden. They did not dare make a fire.
 
 They sat in the dark, listening to the night jungle awaken. The sounds were different here, across the river from the plantation. They were layered, complex, competitive. Alive.
 
@@ -1136,11 +1139,13 @@ He did not answer. He looked down at the parang. The tool, the weapon, the state
 
 The hook for the next chapter was not a mystery or a journey. It was a decision, waiting for him in the ordinary world, heavy as a blade in his hands. The game was no longer hidden, and he was no longer just a player walking into its heart. He was a man who owed a blood-debt to the soil, and the garden’s hungry heart was still beating, waiting for his next move.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- Chapter 9
+Chapter 9
 
 The jungle didn’t give way to the town so much as it frayed at its edges, the dense weave of green unravelling into patches of rubber trees, then into the raw, red scars of cleared land. The air changed. It lost its layered, wet breath and took on the thin, acrid smell of diesel and burnt trash. The road was a strip of cracked asphalt, shimmering in the late afternoon heat like a mirage of order. It felt more alien than the deepest part of the forest.
 
@@ -1197,8 +1202,7 @@ He hung up. The connection severed with a final, definitive click. The purificat
 “It’s done,” he said.
 
 She didn’t look at him. “Nothing is done.”
-
-The stringer’s safe-house was a pre-war shophouse on a side-street in George Town, its plaster facade stained with monsoon damp and the exhaust of decades. The upper floor, accessed by a separate side entrance and a wrought-iron staircase that sang with every step, smelled of mothballs and stale jasmine. It was a place for people in transit, for whispers and hand-offs. It had no memory, which was its only virtue.
+  - The stringer’s safe-house was a pre-war shophouse on a side-street in George Town, its plaster facade stained with monsoon damp and the exhaust of decades. The upper floor, accessed by a separate side entrance and a wrought-iron staircase that sang with every step, smelled of mothballs and stale jasmine. It was a place for people in transit, for whispers and hand-offs. It had no memory, which was its only virtue.
 
 Jin spent the first day in the relentless, mechanical work of resurrection. He cleaned the camera, its housing still gritted with river silt. He downloaded the cards, the footage appearing on the laptop screen like artifacts from a lost civilization: the geometric horror of the plantation, the blind man’s empty gaze, Kian’s final, furious sprint. He scanned the water-stained pages of the ledger, each entry a cold, numerical verdict. He wrote the narration, the words coming not as prose but as a forensic report, each sentence a scalpel. He was building the case, not the story. The story had died with Kian. What remained was evidence.
 
@@ -1294,11 +1298,13 @@ He was no longer a man carrying a debt. He was the debt. A living, breathing ins
 
 The SUV pulled away, the headlights sweeping across the empty shore. The hook for the next chapter was not a mystery or a journey. It was the long, cold silence of the earth after the seed is buried, and the terrible, patient force of its germination. The game was over. A new one had begun.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- Chapter 10
+Chapter 10
 
 The silence didn’t settle in the back of the SUV so much as it was installed, a manufactured void that replaced the monsoon’s roar. It was the silence of a vacuum seal, of a specimen jar being screwed shut. Jin sat on the cold leather, his wrists bound behind him with a plastic rigidity that made his shoulders ache. The two men flanking him were not the thugs from the jetty. These were different. They wore dark, unmarked polos and tactical trousers, their faces clean-shaven and devoid of expression. They did not smell of sweat or river mud. They smelled of antibacterial soap and starch. They were archivists of violence, their professionalism a colder aggression than any baton.
 
@@ -1408,11 +1414,13 @@ He finished his coffee. The sun had burned through the mist, laying a harsh, cla
 
 He started walking again, his phone in his hand, noting the facts of the morning. The hook for the next chapter was not a mystery to be solved or a journey to be undertaken. It was the slow, meticulous work of documentation. The patient, unheroic resistance of the cataloger against the curator. The game of revelation was over. The game of remembrance had just begun. He was a single, bare filament in a vast, dark bulb. His only task was to remain. And to glow, with the cold, steady light of what is.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- Chapter 11
+Chapter 11
 
 The heat in Penang didn’t arrive with the monsoon’s blunt force. It seeped. It rose from the cracked asphalt of the clan jetty in a visible shimmer, carrying the smells of dried shrimp, diesel, and the sweet, decaying breath of the strait. It coated the back of Jin’s throat. After the curated chill of Kuala Lumpur, it felt like a return to a more honest element. The air here didn’t pretend to be anything other than what it was: thick, lived-in, and indifferent.
 
@@ -1540,11 +1548,13 @@ Jin took out his phone. He opened a new note. He did not type a fact about the j
 
 He was fortifying it.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- Chapter 32
+Chapter 32
 
 The rain didn’t fall in Kuala Lumpur so much as it descended, a warm, solid wall that turned the city into a greyscale aquarium. But this time, Jin was not watching it from the twenty-third floor of the Meranti Tower. He stood on the open-air upper floor of the old community hall on the Saloma Jetty, the rebuilt planks solid and familiar under his feet. The monsoon sheeted across the Straits of Johor, turning the distant, glimmering towers of the city centre into a watercolour blur, their famous spires swallowed by the weather’s belly. The air here was thick, fragrant with wet wood, ikan bilis, and the petrichor of a thousand storms before. It made the skin on his forearms prickle, not with artificial chill, but with the electric charge of a world alive.
 
@@ -1602,11 +1612,13 @@ He looked out at the city, no longer a distant, imposing skyline of deals and ch
 
 He put the stone in his pocket. He felt its solid presence against his thigh. Then he turned and walked back toward the light and the music, back into the garden he helped tend, ready for the next season’s growth. The work was never over. It was simply alive.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- Chapter 13
+Chapter 13
 
 The river stone was a planet in Jin’s pocket. Its gravity was a low, constant hum against his thigh, a counterweight to the elevator’s silent, g-force ascent. The lift in the Sentral Korporat tower did not ding; it exhaled, a soft pneumatic sigh as the doors parted onto the forty-second floor. The air here was different from the Meranti Tower’s meat-locker aggression. This was a curated aridity, scentless and still, designed to preserve both the art on the walls and the calculations in the air. It smelled of money that had forgotten its origin.
 
@@ -1649,8 +1661,7 @@ Tan was silent for a long time, watching the clouds scud across the distant, haz
 “The drive stays,” Tan said, not turning. “I will confer.”
 
 Jin stood. He knew the meeting was over. The negotiation would continue in legalese and emails, but the pivot had been forced. He had not come to win, but to alter the geometry of the game. He walked back to the elevator, the stone a steady pendulum against his leg.
-
-The heat of the street was a physical embrace after the tower’s cryogenic preserve. Jin walked, not toward the LRT station, but aimlessly, letting the city’s chaotic symphony wash over him. The argument with Tan had been clean, clinical. But another conversation, older and more tangled, knotted his gut.
+  - The heat of the street was a physical embrace after the tower’s cryogenic preserve. Jin walked, not toward the LRT station, but aimlessly, letting the city’s chaotic symphony wash over him. The argument with Tan had been clean, clinical. But another conversation, older and more tangled, knotted his gut.
 
 His father’s workshop was in a pre-war shophouse in the shadow of the new MRT line, a stubborn tooth in a gleaming gum. The sign above the door—Lee & Sons: Precision Watch Repair—was faded, the “& Sons” a quiet, decades-old hope. The bell over the door announced Jin with a tired, tinny jingle.
 
@@ -1699,8 +1710,7 @@ A ghost of something—not a smile, but a crack in the permafrost of disapproval
 “Only with your permission. And they will be cited. ‘From the workshop ledgers of Lee Seng.’ Your silence will be part of the song.”
 
 His father nodded once, a short, sharp dip of the chin. It was concession, and it was blessing. He stood, returning to his workbench, to the silent, singing universe under the loupe. “Then do not make my life’s work into noise.”
-
-The call came as Jin was crossing the bridge near Central Market, the Klang River flowing thick and brown below. It was Anis, her voice compressed by bad signal and urgency.
+  - The call came as Jin was crossing the bridge near Central Market, the Klang River flowing thick and brown below. It was Anis, her voice compressed by bad signal and urgency.
 
 “They’ve moved.”
 
@@ -1719,8 +1729,7 @@ The river stone in his pocket felt suddenly cold. Tan had “conferred.” And s
 “The physical backup. The local server in the community hall. It’s air-gapped, but it’s just a box in a room. If they can’t steal the data digitally…” She left the sentence hanging.
 
 “They’ll steal the box.” Jin was already turning, hailing a ride. “Meet me there. And call Mr. Teoh. Tell him to gather the committee. Quietly.”
-
-The community hall felt different at night. The festive lights were off. The empty space echoed with the day’s absence. The single server tower, housed in a locked, ventilated cabinet near the stage, hummed its steady, ignorant song. It contained the only complete, unencrypted copy of everything: the scanned deeds, the sensor feeds, the videos of elders speaking into the camera, the audio files of riversongs.
+  - The community hall felt different at night. The festive lights were off. The empty space echoed with the day’s absence. The single server tower, housed in a locked, ventilated cabinet near the stage, hummed its steady, ignorant song. It contained the only complete, unencrypted copy of everything: the scanned deeds, the sensor feeds, the videos of elders speaking into the camera, the audio files of riversongs.
 
 Mr. Teoh arrived with three other men from the committee. They carried no weapons, only the dense, quiet seriousness of men protecting their own. One, Rajiv, owned the hardware shop; he carried a heavy-duty power drill. Another, Hafiz, was a retired policeman, his eyes constantly scanning the shadows.
 
@@ -1776,11 +1785,13 @@ A watchmaker’s silence is a delicate thing. How does one repair a broken son?
 
 The hook for Chapter 14 was not a question of land or data. It was a question of blood. They had found his foundation. And they were not aiming for the wall anymore. They were aiming for the stone in his pocket, and the hand that had given it to him. The aquarium was clear, and the predators were no longer smudges in the distance. They were in the water with him.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- Chapter 14
+Chapter 14
 
 The photograph on Jin’s phone was a violation. It was not a threat of physical force, which had a grammar he understood—a demand, a consequence. This was a different syntax. It was an incision. It laid his father’s quiet, ordered world on an operating table under a sterile light, a specimen to be dissected. Lee & Sons. The sign was a monument to a failure Jin had spent a decade outrunning. The silence of the workshop in the image was not peaceful; it was the silence of a held breath, of a clock whose mainspring was wound too tight.
 
@@ -1845,8 +1856,7 @@ Jin thought of his father in the workshop, a man of infinite patience for tiny, 
 “Do it,” he said, the words tasting of metal.
 
 Aya gave a single, curt nod and turned back to her terminal, her fingers already flying across the keyboard. The sound was like rainfall on dry leaves. Jin was left standing in the blue glow, the cold architect of a defense that felt like a new kind of betrayal.
-
-The next forty-eight hours passed in a tense, dual rhythm. In the community hall, the work was a form of aggressive archaeology. With the core archive safe, they began constructing a labyrinth of false leads and mirrored data around the decoy server—plausible fragments of oral histories, corrupted land titles, half-finished genealogies. It was a digital ghost town, built to be hauntingly persuasive, to consume the consortium’s time and attention. Jin worked alongside the coders, his legal mind mapping the contours of a believable lie. He drafted dummy contracts, backdated minutes of non-existent meetings, a paper trail for a story that never was. The work was meticulous, all-consuming.
+  - The next forty-eight hours passed in a tense, dual rhythm. In the community hall, the work was a form of aggressive archaeology. With the core archive safe, they began constructing a labyrinth of false leads and mirrored data around the decoy server—plausible fragments of oral histories, corrupted land titles, half-finished genealogies. It was a digital ghost town, built to be hauntingly persuasive, to consume the consortium’s time and attention. Jin worked alongside the coders, his legal mind mapping the contours of a believable lie. He drafted dummy contracts, backdated minutes of non-existent meetings, a paper trail for a story that never was. The work was meticulous, all-consuming.
 
 But beneath the surface of every keystroke, every legal precedent cited for a fictional dispute, was a low, constant hum of anxiety. Aya’s team had moved with silent efficiency. He received no details, only periodic, encrypted status updates: Asset relocated. Perimeter secured. Surveillance detected and countered. The language was sterile. It turned his father into an asset, his childhood home into a perimeter. He imagined the old man, confused and furious, being persuaded to leave his workshop. He would have refused at first, stubborn as old teak. Who had convinced him? What story had they told?
 
@@ -1994,11 +2004,13 @@ It had come for the foundation.
 
 And it was smiling.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- Chapter 15
+Chapter 15
 
 The hum from Aris’s device was a physical pressure in the air, a vibration that seemed to bypass the ear and settle directly against the molars. It found the frequency of the stone in Jin’s pocket and resonated with it, a silent, one-sided conversation between technologies separated by centuries. The lead-lined case was a whisper against a shout. The proof was no longer hidden. It was singing.
 
@@ -2270,11 +2282,13 @@ He was not the guardian of a single, buried truth.
 
 He was the heir to a silent, shattered kingdom. And the throne was empty.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- Chapter 16
+Chapter 16
 
 The pipe was a throat of cold, rust-flaked iron. It swallowed him whole. Jin crawled on hands and knees, the stone a dull coal in his clenched fist, its light reduced to a faint, subcutaneous glow that pulsed in time with the hammering of his heart. The air was a close, metallic tomb-breath. He could hear nothing but the scuff of his own movement, the rasp of his lungs, and the distant, liquid thunder of the city’s runoff somewhere in the deeper veins.
 
@@ -2579,11 +2593,13 @@ Jin was alone again, with a corpse, a box of evidence, and a terrifying new cert
 
 The game had just changed. The players were not who he thought they were. And the witness had just become a target in a war he did not yet understand.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- Chapter 17
+Chapter 17
 
 The monsoon had returned, not with the earlier day’s solid wall but with a persistent, whispering drizzle that made a thousand tiny lenses on the city’s glass and steel. It was the hour before dawn, a time of grit and ghosts. Jin stood in the shadow of a half-completed concrete column on the construction site, the metal box from the throne room heavy under his arm, its weight both an anchor and a millstone. The body was still down there. The figure was gone. The sky above was the colour of a bruise, a deep, sickly purple bleeding into grey.
 
@@ -2729,11 +2745,13 @@ He put the van in gear and pulled onto the road, the last of the daylight dying 
 
 The war for the city’s soul would not be fought in boardrooms or caverns. It would be fought in the spaces between, in the ruins of what was promised and the shadows of what was erased. And he was now, irrevocably, a soldier in a uniform he had never chosen, fighting for a cause he was only beginning to understand.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- Chapter 18
+Chapter 18
 
 The Ruins did not announce themselves. They were a slow, cancerous revelation on the city’s eastern flank. First, the proper grid of streets began to stutter, then fail, swallowed by patches of unchecked green. The buildings grew shabbier, their facades stained with the permanent shadow of damp. Then, the road itself gave up, asphalt crumbling into a weed-choked track that ended at a vast, broken plain of concrete.
 
@@ -2934,11 +2952,13 @@ He was not going to save the land with law. He was going to defend it with prese
 
 Now he had to make them believe it was a story worth dying for.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- Chapter 19
+Chapter 19
 
 The Proton was a blunt instrument in the slick afternoon traffic. Jin drove with a focused violence, the wipers slapping a frantic tempo against the persistent, misting rain. The city was a smear of brake lights and steamed-up windows, a thousand isolated journeys conducted in tin cans. He felt the disconnect like a physical pressure. In his pocket, the phone was a live nerve. On the passenger seat, the folder of printed secrets was a bomb with a slow, digital fuse. In his head, the image of the bulldozer icon hovering over Uncle Hock’s land was a countdown clock, its digits bleeding red.
 
@@ -3118,11 +3138,13 @@ He had failed to be the obstacle. He had become a footnote. The war for the city
 
 The hook for his story had been set, deep in the flesh of the narrative. But the line had snapped. The bulldozer, lawless and patient, moved forward. And the only thing left to listen to its victory was the empty, ringing air.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- Chapter 20
+Chapter 20
 
 The holding cell was a concrete shoebox smelling of old sweat, industrial bleach, and the ghost of a thousand cheap cigarettes. It was a different kind of aquarium, this one landlocked and airless, filled with the slow, circling desperation of men who had been processed and forgotten. The single high window, barred and grimed, admitted a thin, jaundiced light that did nothing to illuminate the space, only defined its edges. It was the antithesis of the meat-locker boardroom, but it served the same function: to make a man feel small, contingent, a problem temporarily shelved.
 
@@ -3322,11 +3344,13 @@ The hook was set. Not in the flesh of a narrative, but in the bedrock of a fact.
 
 The last light faded from the highest leaves of the seraya. In the distance, the bulldozers fell silent, their workday done. In the resulting quiet, Jin heard it clearly: the soft, eternal trickle of the spring from between the roots, a sound like a promise, or a secret, being kept.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- Chapter 21
+Chapter 21
 
 The silence after the bulldozers was a physical presence, a dense, living thing that settled over the grove. It was not an absence of sound, but a change in its composition. The mechanical roar had been a violence, a flat plane that smothered all other frequencies. Now, the world breathed again. The trickle of the spring was its pulse. The rustle of a palm frond in a stray breath of wind was its exhalation. The first tentative peeps of night frogs were its voice. Jin sat with his back against the seraya, the ancient bark pressing its complex topography into his spine. He felt scraped out, hollow, a vessel emptied of one thing and not yet filled with another.
 
@@ -3412,11 +3436,13 @@ He let it ring out. The machine could wait. He had a ledger to populate. The hoo
 
 He saved the file. Outside his window, the afternoon sun glared off the endless glass of the city. Somewhere beneath it, in the forgotten soil, a spring trickled, a fact that refused to be moved. And in a quiet office twenty-three stories above it all, a man began the exacting work of building a dam.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- Chapter 22
+Chapter 22
 
 The silence in Jin’s apartment was a different texture than the office quiet. It was hollow, expectant, a held breath. The city’s nocturnal glow, a perpetual electric dusk, seeped around the edges of his blackout blinds. He sat at his dining table, which was no longer a place for meals but the operations center for a quiet, one-man war. The LEDGER was no longer a single file. It was an ecosystem: folders within encrypted folders, a digital catacomb of evidence. The 1923 map was its cornerstone, but the architecture he had built upon it was formidable.
 
@@ -3455,8 +3481,7 @@ Uncle Hock was silent for a long moment. Then he sighed, a sound of immense weig
 After they left, the hollow silence returned, but it was now charged, vibrating with the old man’s fear. Jin paced. The meticulous, stone-upon-stone approach was a luxury he no longer had. Tan’s machine was moving to a faster, crueler rhythm. He stopped before the large city map on his wall, his eyes tracing the serpentine line of the Klang River, the green blotch of the forest reserve, the red-inked boundary of Sovereign Heights.
 
 His gaze snagged on a notation near the river’s edge, in a dense warren of old workshops and warehouses: Sungai Besi Ironworks (decommissioned 1998). An idea, dark and fluid, began to form. It was not a lawyer’s idea. It was the idea of a man with a hook in his soul.
-
-The ironworks was a cathedral of rust and shadow. The monsoons had broken part of the corrugated roof, and pools of stagnant water reflected the grey morning sky. The air smelled of wet metal, pigeon droppings, and the ghost of scorched coal. Jin picked his way through the corpse of the great press, its massive hammer frozen mid-fall, vines creeping up its iron legs like nature reclaiming a defeated giant.
+  - The ironworks was a cathedral of rust and shadow. The monsoons had broken part of the corrugated roof, and pools of stagnant water reflected the grey morning sky. The air smelled of wet metal, pigeon droppings, and the ghost of scorched coal. Jin picked his way through the corpse of the great press, its massive hammer frozen mid-fall, vines creeping up its iron legs like nature reclaiming a defeated giant.
 
 He was not alone.
 
@@ -3491,8 +3516,7 @@ Ahmad was silent for a long time, listening to the drip of water in the ruins. H
 Ahmad nodded, once. It was not a nod of enthusiasm, but of necessity. The acceptance of a new kind of weapon. “When?”
 
 “Tonight. The light will be poor, but the symbolism is better. We go in the dark, to bring the thing to light.”
-
-The forest at night was a different organism. The heat of the day had lifted, leaving a cool, damp breath that carried the scent of decay and blooming night flowers. Jin followed Ahmad’s silent form, the beam of his own torch feeling like a vulgar intrusion. He carried a lightweight tripod and a high-sensitivity camera. Ahmad carried the old, bone-handled parang and a profound sense of trespass.
+  - The forest at night was a different organism. The heat of the day had lifted, leaving a cool, damp breath that carried the scent of decay and blooming night flowers. Jin followed Ahmad’s silent form, the beam of his own torch feeling like a vulgar intrusion. He carried a lightweight tripod and a high-sensitivity camera. Ahmad carried the old, bone-handled parang and a profound sense of trespass.
 
 They reached the clearing. The moonlight filtered through the canopy, dappling the mossy stones of the well in silver and black. It looked more sacred than ever, and more frail. The air here was still, watchful.
 
@@ -3582,11 +3606,13 @@ He held up an official-looking document. “Mr. Jin Kai? Mr. Ahmad bin Yusuf? Yo
 
 The hook pulled taut. The spotlight was on, but it had also illuminated them, standing in the open. The machine, thwarted in its blunt force, was now engaging with a different tool: the law itself, twisted to its purpose. The war had entered a new, more formal phase. The cost of their next move would not be measured in threats, but in ink, in procedure, in the cold, slow grind of the state’s own machinery. They were no longer just fighting a developer. They were being invited into the belly of the beast.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- Chapter 23
+Chapter 23
 
 The drive from the forest’s edge to the city was conducted in a silence more profound than any interrogation. The rain had returned, not the monsoon wall of Jin’s memory but a persistent, needling drizzle that beaded on the SUV’s tinted windows, turning the waking world into a smear of wet asphalt and ghostly streetlights. The officer from the Department of Environment sat in the front passenger seat, a silhouette against the grey dawn. He had not spoken again after reciting their alleged violations. The document lay on the dashboard, its official seal a red wax eye.
 
@@ -3643,10 +3669,7 @@ A silent battle waged in the sterile room. Tan was a sculptor of circumstance, b
 Tan stood. “Very well. You have one hour. Consider the trajectory of your life, Mr. Jin. This is the only off-ramp you will be offered.”
 
 They left him alone with the statement and the postcard view.
-
-  
-
-Ahmad’s interview was conducted in a different room, by different men. They spoke in Malay, a language of home and authority wielded as a weapon. They did not offer him financial records. They offered him a different narrative.
+  - Ahmad’s interview was conducted in a different room, by different men. They spoke in Malay, a language of home and authority wielded as a weapon. They did not offer him financial records. They offered him a different narrative.
 
 “Ahmad bin Yusuf,” the senior officer said, a man with a kind face and tired eyes. “Teacher. Respected man in your community. We understand your attachment to the old ways. It is noble. But you have been misled. This lawyer, this city man, he is using you. He has his own agendas. You see the money he has from foreigners? You are a tool to him. When this is over, he will return to his air-conditioned life. You will be left with a criminal record. Your pension at the school? Gone. Your standing in the kampung? Damaged. For what? For a patch of trees that will, in any case, be mostly preserved as a ‘green buffer’ in the development plan.”
 
@@ -3659,10 +3682,7 @@ He thought of Jin’s dam of facts, almost overrun. He thought of the well, and 
 He smiled, a gentle, sorrowful smile that confused the officers. “You speak of the future as a place we must all journey to,” he said, his voice soft. “But you have the map drawn already. You ask me to guide my people onto your road, because it is the only one you have built. But a teacher does not just guide children down a pre-built road. He teaches them how to see all the paths. Even the ones you have not drawn.”
 
 He declined to sign anything. He asked for his lawyer.
-
-  
-
-Jin’s lawyer, a harried woman named Selvi who specialized in commercial litigation, arrived within the hour. She read the statement, her face grim. “It’s a good deal, Jin,” she said quietly, in the privacy of the room. “They want this to go away cleanly. If you fight, they will bury you. Not with lies, but with procedure. They will delay, obfuscate, appeal. Your practice will be dead long before any court rules. This… this lets you live to fight another day.”
+  - Jin’s lawyer, a harried woman named Selvi who specialized in commercial litigation, arrived within the hour. She read the statement, her face grim. “It’s a good deal, Jin,” she said quietly, in the privacy of the room. “They want this to go away cleanly. If you fight, they will bury you. Not with lies, but with procedure. They will delay, obfuscate, appeal. Your practice will be dead long before any court rules. This… this lets you live to fight another day.”
 
 “By killing the truth today,” Jin said.
 
@@ -3683,10 +3703,7 @@ When Tan and Razak returned, Jin pushed the unsigned statement back across the t
 Tan did not blink. He simply closed his folder. “A costly vanity.” He nodded to Razak. “Process them.”
 
 The formal charges were read. They were remanded for forty-eight hours, pending a bail hearing. The cold grind began.
-
-  
-
-The holding cell was a concrete cube, smelling of disinfectant and despair. Ahmad was already there when two officers brought Jin in. They sat on the hard bench, the only light a fluorescent bar behind a wire mesh.
+  - The holding cell was a concrete cube, smelling of disinfectant and despair. Ahmad was already there when two officers brought Jin in. They sat on the hard bench, the only light a fluorescent bar behind a wire mesh.
 
 “They offered you a way out,” Ahmad stated, not asked.
 
@@ -3752,11 +3769,13 @@ Jin leaned his head back against the cold metal. “Now,” he said, “so does 
 
 The vehicle pulled into the sluggish Putrajaya traffic, a sealed container carrying its unlikely cargo. Inside, in the dark, the seed of resolution, small and hard as a stone, waited. It had been planted in the deepest, most barren soil imaginable. The only thing left was to see what would grow.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- Chapter 24
+Chapter 24
 
 The rain didn’t fall in Kuala Lumpur so much as it descended, a warm, solid wall that turned the city into a greyscale aquarium. From the ground, Jin watched it sheet across the reinforced glass of the prison transport van, turning the world outside into a liquid smear of brake lights and neon. The air inside was thick with the smell of damp concrete, stale sweat, and diesel fumes. It made the skin on his wrists, chafed from the cuffs now removed, ache with a dull, familiar heat.
 
